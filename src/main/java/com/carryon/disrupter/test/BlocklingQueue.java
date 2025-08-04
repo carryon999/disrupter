@@ -1,4 +1,4 @@
-package com.carryon.disrupter;
+package com.carryon.disrupter.test;
 
 import com.carryon.disrupter.constants.Constants;
 import com.carryon.disrupter.model.Data;
